@@ -120,6 +120,9 @@ tags: ["book"]
 
   二十世纪之交的主要问题是:信息如何穿过这个间隙。科学家们总是喜欢争论，有一些人认为化学物质的脉冲被送过这个间隙，这一立场的支持者称自己为 "汤"；而那些认为是电的冲击跨越这个间隙的人则自称是 "火花"。即使是政治会议也无法比拟两组科学家争论的尖锐和激烈，每组科学家都坚持自己的立场，而坚信他们的对手缺乏任何可信度。事实上，这场科学上的争斗将在接下来的50年里塑造神经科学。
 
+  > Intrigued by the sparks-and-soups debate, a young German scientist, Otto von Loewi, brashly decided that he would solve the riddle. If you were to look up “absentminded professor” on the internet, you might find a picture of Loewi. Even as a student, he often neglected his biology classes, favoring trips to the opera or philosophy lectures instead.
+
+
   to be cont.
 
   <a href="#header">⇜</a>
