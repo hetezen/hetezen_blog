@@ -87,7 +87,7 @@ params:
     - "post-nav.js"
     - "external-link.js"
     - "alt-title.js"
-  githubContentURL: "https://github.com/hetezen/blog/tree/master/content/"
+  githubContentURL: "https://github.com/hetezen/hetezen_blog/tree/master/content/"
 
   # options for highlight.js (version, additional languages, and theme)
   highlightjsVersion: "9.12.0"
