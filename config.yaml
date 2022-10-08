@@ -26,50 +26,66 @@ menu:
     - name: "Blog"
       url: "/en/"
       weight: 3
-    - name: "日志"
-      url: "/cn/"
-      weight: 4
-
-  en:
-    - name: "Home"
-      url: "/"
-      weight: 1
-    - name: "About"
-      url: "/en/about/"
-      weight: 2
-    - name: "Readings"
-      url: "/readings/"
-      weight: 3
-    - name: "Blog"
-      url: "/en/"
-      weight: 4
-    - name: "Tags"
-      label: "tags"
-      url: "/tags/"
-      weight: 5
-    - name: "中文"
-      url: "/cn/"
-      weight: 6
-  cn:
-    - name: "首页"
-      url: "/"
-      weight: 1
-    - name: "关于"
-      url: "/en/about/"
-      weight: 2
-    - name: "读书"
-      url: "/readings/"
-      weight: 3
     - name: "博客"
       url: "/cn/"
       weight: 4
     - name: "Tags"
       label: "tags"
       url: "/tags/"
+      weight: 5  
+
+  Readings:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/en/about/"
+      weight: 2
+    - name: "Blog"
+      url: "/en/"
+      weight: 3
+    - name: "Tags"
+      label: "tags"
+      url: "/tags/"
+      weight: 4
+    - name: "中文"
+      url: "/cn/"
       weight: 5
+
+  en:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Readings"
+      url: "/readings/"
+      weight: 2
+    - name: "Blog"
+      url: "/en/"
+      weight: 3
+    - name: "Tags"
+      label: "tags"
+      url: "/tags/"
+      weight: 4
+    - name: "中文"
+      url: "/cn/"
+      weight: 5
+  cn:
+    - name: "首页"
+      url: "/"
+      weight: 1
+    - name: "读书"
+      url: "/readings/"
+      weight: 2
+    - name: "博客"
+      url: "/cn/"
+      weight: 3
+    - name: "Tags"
+      label: "tags"
+      url: "/tags/"
+      weight: 4
     - name: "English"
       url: "/en/"
-      weight: 6
+      weight: 5
 
 params:
   description: "Heterogeneity and Zen"
