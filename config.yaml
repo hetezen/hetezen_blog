@@ -1,4 +1,4 @@
-baseurl: "hetezen.netlify.app"
+baseurl: "https://hetezen.netlify.app"
 languageCode: "en-us"
 title: "Heterogeneity & Zen"
 theme: "hugo-ivy"
