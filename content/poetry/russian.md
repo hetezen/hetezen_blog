@@ -2,7 +2,6 @@
 title: "Russian Songs"
 date: '2022-09-13'
 slug: russiansongs
-tags: ["poetry"]
 ---
 
 <div id="header">
