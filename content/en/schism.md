@@ -1,6 +1,6 @@
 ---
 title: "Schism"
-date: '2022-08-16'
+date: '2018-06-04'
 slug: schism
 tags: ["shortessay"]
 ---
