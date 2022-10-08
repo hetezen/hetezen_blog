@@ -2,7 +2,7 @@ baseurl: "https://hetezen.netlify.app"
 languageCode: "en-us"
 title: "Heterogeneity & Zen"
 theme: "hugo-ivy"
-googleAnalytics: ""
+googleAnalytics: "G-DX1LRBBE39"
 disqusShortname: "hetezen"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$", "\\.draft\\.md$"]
 hasCJKLanguage: true
@@ -48,6 +48,7 @@ params:
     - "js/external-link.js"
     - "js/alt-title.js"
     - "js/header-link.js"
+    - "js/gtag.js"
   githubContentURL: "https://github.com/hetezen/hetezen_blog/tree/master/content/"
 
   # options for highlight.js (version, additional languages, and theme)
