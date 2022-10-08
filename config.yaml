@@ -48,7 +48,6 @@ params:
     - "js/external-link.js"
     - "js/alt-title.js"
     - "js/header-link.js"
-    - "js/gtag.js"
   githubContentURL: "https://github.com/hetezen/hetezen_blog/tree/master/content/"
 
   # options for highlight.js (version, additional languages, and theme)
