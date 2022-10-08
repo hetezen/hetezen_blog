@@ -110,6 +110,16 @@ tags: ["book"]
 
   瞳孔的扩大允许更多的光线进入眼睛，以便看清楚，但颠茄中的阿托品也有放松控制晶状体的肌肉的作用，所以女士们其实看不到她们在和谁调情。长期使用颠茄素也可能导致失明。
 
+  - Soup and sparks | 汤和火花
+
+  > Based on careful examination of hundreds of brain slices, Cajal proposed his neuron doctrine, in which he concluded that the nervous system was not one gigantic mesh, but was in fact composed of many individual nerve cells, and that between each nerve cell was a tiny gap called a synapse.
+
+  > The primary question at the turn of the twentieth century was how information crossed that gap. Always up for a good argument, scientists divided themselves into two camps. There were those who believed pulses of chemicals were sent across the gap—adherents of this position calling themselves “soups”—whereas those who believed that a jolt of electricity spanned the gap were self-styled “sparks.” Not even political meetings can attain the acrimony and bitterness of two groups of scientists, each convinced of the merits of their position, and the lack of any credibility in their opponents’ platform. Indeed, this scientific feud would shape neuroscience for the next fifty years.
+
+  基于对数百个大脑切片的仔细检查，Cajal提出了他的神经元学说，他认为神经系统不是一个巨大的网状结构，而实际上是由许多单独的神经细胞组成的，每个神经细胞之间有一个微小的间隙，称为突触。
+
+  二十世纪之交的主要问题是:信息如何穿过这个间隙。科学家们总是喜欢争论，有一些人认为化学物质的脉冲被送过这个间隙，这一立场的支持者称自己为 "汤"；而那些认为是电的冲击跨越这个间隙的人则自称是 "火花"。即使是政治会议也无法比拟两组科学家争论的尖锐和激烈，每组科学家都坚持自己的立场，而坚信他们的对手缺乏任何可信度。事实上，这场科学上的争斗将在接下来的50年里塑造神经科学。
+
   to be cont.
 
   <a href="#header">⇜</a>
