@@ -1,59 +1,48 @@
 {{ if and (not (eq .Site.DisqusShortname "")) (and (not .Params.disable_comments) (or (eq .Kind "404") (and (not .IsHome) .Content))) }}
 <section class="comments">
-  <div class="tabs" style="display: none;">
-  <input name="tabs" type="radio" id="tab-1" checked class="input"/>
-  <label for="tab-1" class="label">Disqus</label>
-  <div class="panel">
-    <div id="disqus_thread"></div>
-    <script data-src="//{{ .Site.DisqusShortname }}.disqus.com/embed.js" async></script>
-    <script>
-    var disqus_config = (function() {
-      var disqusURL
-      {{ with .Site.Params.disqusURL }}
-        = "{{ . }}" +{{ if eq $.Kind "404" }} "/404.html" {{ else }} location.pathname{{ end }}
-      {{ end }}
-      ;
-      var cfg = function() {
-        this.page.url = disqusURL;
-      };
-      cfg.DisqusJSInit = function() {
-        var dsqjs = new DisqusJS({
-          shortname: "{{ .Site.DisqusShortname }}",
-          siteName: "{{ .Site.Title }}",
-          identifier: undefined,
-          url: disqusURL,
-          api: "https://yihui.org/disqus/",
-          apikey: [
-            '7KUjj8dWYWdg36SwnKhiZmfiBcRrwlCDudkFZHAkfFJKBerk9IAPnnuo45Kkm22W',
-            'XrSwjw0Vm57x9oStOytHMBVpXkGBivU2ohEV1loqEEFmJ8Ulefxuz1lw9zDeYFN8',
-            'Hqkwx8JsVo5YOtkx0Oqc75oWIUG0n1PR9AgsrSJID4sEpkUKDgEyIhoObeoF1miW'
-          ],
-          admin: 'yihui',
-          adminLabel: 'Yihui Xie'
-        });
-      };
-      return cfg;
-    })();
-    </script>
-  </div>
-  <input name="tabs" type="radio" id="tab-2" class="input"/>
-  <label for="tab-2" class="label">Utterances</label>
-  <div class="panel">
-    <script data-src="https://utteranc.es/client.js" repo="rbind/yihui" issue-term="pathname"
-      label="comment" theme="github-light" crossorigin="anonymous" async></script>
-  </div>
-  <input name="tabs" type="radio" id="tab-3" class="input"/>
-  <label for="tab-3" class="label">Preferences</label>
-  <div class="panel">
-    <p class="title">Layout of comment panels</p>
-    <input name="layout" type="radio" id="layout-1" checked />
-    <label for="layout-1">Tabbed (wide screen) / Stacked (small screen)</label>
-    <br/>
-    <input name="layout" type="radio" id="layout-2" />
-    <label for="layout-2">Full display</label>
-  </div>
-  </div>
-  <script src="https://cdn.jsdelivr.net/npm/@xiee/utils/js/custom-disqus.min.js" defer></script>
+  <div id="disqus_thread"></div>
+  <script>
+  var disqus_config = function () {
+  {{ with .Site.Params.disqusURL }}
+    this.page.url = "{{ . }}" +{{ if eq $.Kind "404" }} "/404.html" {{ else }} location.pathname{{ end }};
+  {{ end }}
+  };
+  (function() {
+    var inIFrame = function() {
+      var iframe = true;
+      try { iframe = window.self !== window.top; } catch (e) {}
+      return iframe;
+    };
+    if (inIFrame()) return;
+    var disqus_js = '//{{ .Site.DisqusShortname }}.disqus.com/embed.js';
+    var d = document, s = d.createElement('script');
+    s.src = disqus_js; s.async = true;
+    s.setAttribute('data-timestamp', +new Date());
+    var t = d.getElementById('disqus_thread');
+    var b = false, l = function(scroll) {
+      if (b) return;
+      (d.head || d.body).appendChild(s); b = true;
+      if (scroll) t.scrollIntoView();
+    }
+    s.onerror = function(e) {
+      if (sessionStorage.getItem('failure-note')) return;
+      t.innerText = 'Sorry, but you cannot make comments because Disqus failed to load for some reason. It is known to be blocked in China. If you are sure it is not blocked in your region, please refresh the page. 中国大陆地区读者需要翻墙才能发表评论。';
+      t.style.border = '1px dashed';
+      t.style.padding = '.5em';
+      t.style.background = 'lightyellow';
+      sessionStorage.setItem('failure-note', true);
+    };
+    // show comments when the hash means to jump to a comment
+    if (location.hash.match(/^#comment-[0-9]+$/)) return l(true);
+    var c = function() {
+      if (b) return;
+      var rect = t.getBoundingClientRect();
+      if (rect.top < window.innerHeight && rect.bottom >= 0) l();
+    };
+    window.addEventListener('load', c);
+    d.addEventListener('scroll', c);
+  })();
+  </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </section>
 {{ end }}
