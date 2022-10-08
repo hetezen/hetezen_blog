@@ -5,3 +5,5 @@
 exampleSite/public
 content/*/*draft*
 content/cn/*/*draft*
+.DS_Store
+*/.DS_Store
