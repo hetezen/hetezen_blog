@@ -1,14 +1,16 @@
 
 ---
-title: "【A Man Called Ove】"
-date: '2022-02-14'
+title: "【A Man Called Ove ｜一个叫欧维的男人决定去死】"
+date: '2021-12-28'
 slug: amancalledove
 tags: ["book"]
 ---
 
 <div id="header">
 
-## A Man Called Ove by Fredrik Backman
+### A Man Called Ove ｜一个叫欧维的男人决定去死
+
+by Fredrik Backman
 
 <a href="#loveandhouse">To love someone is like moving into a house</a>   
 <a href="#deathstrange">Death is a strange thing</a>  

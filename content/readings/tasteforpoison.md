@@ -1,5 +1,5 @@
 ---
-title: "【A Taste for Poison | 毒药的味道】"
+title: "【A Taste for Poison |毒药的味道】"
 date: '2022-08-10'
 slug: tasteforpoison
 tags: ["book"]
@@ -7,7 +7,8 @@ tags: ["book"]
 
 <div id="header">
 
-## A Taste for Poison by Neil Bradbury
+### A Taste for Poison |毒药的味道
+by Neil Bradbury
 
 <a href="#Insulin">Insulin and Mrs. Barlow’s Bathtub | 胰岛素</a>  
 <a href="#Atropine">Atropine and Alexandra’s Tonic ｜ 阿托品</a>  
