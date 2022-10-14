@@ -1,6 +1,6 @@
 
 ---
-title: "【The Gifts of Imperfection ｜不完美的礼物】"
+title: "【Brené Brown: The Gifts of Imperfection ｜不完美的礼物】"
 date: '2021-12-19'
 slug: TheGiftsofImperfection
 tags: ["book"]

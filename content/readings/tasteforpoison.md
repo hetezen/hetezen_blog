@@ -1,5 +1,5 @@
 ---
-title: "【A Taste for Poison |毒药的味道】"
+title: "【Neil Bradbury: A Taste for Poison |毒药的味道】"
 date: '2022-08-10'
 slug: tasteforpoison
 tags: ["book"]
