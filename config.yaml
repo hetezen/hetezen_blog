@@ -11,28 +11,23 @@ footnotereturnlinkcontents: "↩"
 rssLimit: 100
 
 permalinks:
-  cn: "/cn/:year/:month/:slug/"
-  en: "/en/:year/:month/:slug/"
+  writings: "/writings/:year/:month/:slug/"
   readings: "/readings/:slug/"
 
 menu:
   main:
     - name: "About"
-      url: "/en/about/"
+      url: "/about/"
       weight: 1
     - name: "Readings"
       url: "/readings/"
       weight: 2
-    - name: "Blog"
-      url: "/en/"
+    - name: "Writings"
+      url: "/writings/"
       weight: 3
-    - name: "博客"
-      url: "/cn/"
-      weight: 4
     - name: "Tags"
-      label: "tags"
       url: "/tags/"
-      weight: 5
+      weight: 4
 
 params:
   description: "Heterogeneity and Zen"
@@ -64,8 +59,7 @@ params:
       tag: ""
 
   author:
-    en: "Hete Zen"
-    cn: "Hete Zen"
+    writings: "Hete Zen"
 
   lang:
     license:

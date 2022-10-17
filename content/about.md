@@ -1,6 +1,6 @@
 ---
 title: "About"
-slug: "en/about"
+slug: "about"
 disable_comments: true
 ---
 

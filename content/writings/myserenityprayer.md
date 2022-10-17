@@ -2,7 +2,7 @@
 title: "Serenity prayer and Irish coffee"
 date: '2019-06-04'
 slug: myserenityprayer
-tags: ["shortessay"]
+tags: ["mysocalledpoem"]
 ---
 
 > God, grant me the serenity to accept the things I cannot change,  

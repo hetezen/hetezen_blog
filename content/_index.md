@@ -5,6 +5,18 @@ disable_mathjax: true
 disable_highlight: true
 ---
 
-# Heterogeneity & Zen
+# Heterogeneity & Zen | 异 & 禅
 
-# 异 & 禅
+## Readings
+
+[【Neil Bradbury: A Taste for Poison |毒药的味道】](../../readings/tasteforpoison)  
+[【Fredrik Backman: A Man Called Ove ｜一个叫欧维的男人决定去死】](../../readings/amancalledove)  
+[【Brené Brown: The Gifts of Imperfection ｜不完美的礼物】](../../readings/thegiftsofimperfection)  
+[【Alice Munro: Something I've Been Meaning to Tell You |我一直想要告诉你的事】](../../readings/sth_menro)  
+[【Olga Tokarczuk: Bieguni | Flights ｜云游】](../../readings/bieguni)  
+
+## Writings
+
+[创作的震荡](../../writings/2021/02/frequencyofcreation)  
+[Serenity prayer and Irish coffee](../../writings/2019/06/myserenityprayer)    
+[分裂| Schism](../../writings/2018/06/schism)  
