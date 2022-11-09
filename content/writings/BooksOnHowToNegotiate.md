@@ -1,7 +1,7 @@
 ---
 title: Books on how to negotiate | 谈判书单
-date: '2022-11-01'
-slug: Negotiation
+date: '2022-11-08'
+slug: BooksOnHowToNegotiate
 tags: ["negotiation"]
 ---
 
