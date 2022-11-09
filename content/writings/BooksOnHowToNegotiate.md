@@ -1,0 +1,94 @@
+---
+title: Books on how to negotiate | 谈判书单
+date: '2022-11-01'
+slug: Negotiation
+tags: ["negotiation"]
+---
+
+<div id="header">
+关于谈判，推荐三本书。
+
+
+- <a href="#Neversplitthedifference">「Never split the difference」by Chris Voss</a>
+- <a href="#splitthepie">「Split the Pie: A Radical New Way to Negotiate」by Barry Nalebuff</a>
+- <a href="#thinkingfastandslow">「Thinking, fast and slow」by Daniel Kahneman</a>
+
+<div id="Neversplitthedifference">
+
+### 「Never split the difference」by Chris Voss
+
+Chris Voss曾是一名联邦调查局人质谈判专家，在处理了150多起国际人质案件后，他于2007年从联邦调查局退休，并成立了The Black Swan Group，为企业和个人提供谈判技巧的咨询和培训。
+
+「Never split the difference」里，Voss总结了不少谈判中重要的心理方面的技巧：如何建立人和人之间的链接，让对方感觉到被倾听和被理解，感觉到足够的安全感，从而愿意进行下一步的对话；如何用多种方式巧妙地温和地有战略性地说“不”；如何让对方觉得是他们在掌控大局和决定事态走向，让对方做出你想要的决定。
+
+让对方感觉到被倾听和被理解，书里提到了两个技巧：mirroring和labelling.
+
+- **Mirroring**, 类似鹦鹉学舌，重复对方刚刚说的最后三个词，或者关键的一至三个词。这种重复和模仿让对方感觉到相似性，感觉到你在倾听，鼓励对方与你产生共鸣和联系。这一方面能鼓励对方继续讲下去，透露更多的信息，另一方面你也能争取时间来组织语言和准备策略。
+- **Labelling**，用"It seems like..." "It sounds like..."这种句式开头，总结出对方的需要和期望。用“看起来”“听起来”是因为万一你总结错了，你还可以说：“我并没有说肯定是那样。”如果对方害怕某事发生，当可能的坏结果被说出来的时候，对方的恐惧情绪很可能会被中和一些，从而冷静下来；如果对方的期望是积极的，当听到你“富有洞见”的总结和对他们的肯定时，他们会感觉“你好懂我！”，接下来的谈判会顺水推舟。
+
+个人觉得，这两条说起来简单，用起来可能没那么容易。用mirroring的时候，要注意语气，不要让对方觉得你在质疑他的话；用labelling的时候，注意不要给对方贴负面的标签，而是要理解对方的处境和发现对方的需要。
+
+书里讲的技巧我觉得最重要的是**calibrated questions**，能巧妙地说“不”，并且让对方以为他们是做决定的人。
+
+| Non-calibrated      | Calibrated |
+| ----------- | ----------- |
+| No.      | **How** am I supposed to do that?       |
+| You can’t leave.   | **What** do you hope to achieve by going?        |
+| Does this look like something you would like?      | **How** does this look to you?/**What** about this works for you?/**What** about this doesn’t work for you?       |
+| Why did you do it?   | **What** caused you to do it?        |   
+
+Calibrated questions多以what和how开头，不是简单的yes/no就能回答的问题。这种开放式问题让对方感觉你在征求他们的意见，寻求他们的帮助，让他们感觉能够自主做决定和推动事态，然后主动提出有利于你的解决方案。
+
+类似的calibrated questions还有很多，比如：
+
+- What is the biggest challenge you face?
+- What about this is important to you?
+- How can I help to make this better for us?
+- How would you like me to proceed?
+- What is it that brought us into this situation?
+- How can we solve this problem?
+- What’s the objective? / What are we trying to accomplish here?”
+
+更多的读书笔记戳<a href="https://hetezen.netlify.app/readings/neversplitthedifference/" target="_blank">这里</a>。
+
+<img src="https://lh6.googleusercontent.com/La4O7lmYpvXTTIn8TPZqY9LLh3dnJl4hW4AAhEru10urnr9fCiN8Si1qchYDIxQMDtQ=w1131-h847-p" />
+
+<a href="#header">⇜</a>
+<div id="splitthepie">
+
+### 「Split the Pie: A Radical New Way to Negotiate」by Barry Nalebuff
+
+Chris Voss的「Never split the difference」着重于谈判的心理层面，而Barry Nalebuff的「Split the Pie: A Radical New Way to Negotiate」则是技术流：用大量数字和计算来展示如何是合理的split the pie的方式。
+
+用一个例子总结如何split the pie： Alice和Bob两个人，如果他们能就如何分配达成一致，他们能拿到一个12块的pizza；如果他们不能达成一致，他们还是可以拿到一些pizza，Alice可以拿到四块，Bob可以拿到两块。
+
+问题来了：如何分配这12块pizza比较合理？
+
+<a href="https://insights.som.yale.edu/insights/better-way-to-divide-the-pie" target="_blank"> <img src="https://lh5.googleusercontent.com/8ycLVbtnCXO3pj-CTJcavPcrldfBfppnWf7VSZY6H_PbvEMX5Exi_QGt65uBfd7fh2k=w526-h591-p" /></a>
+
+- 从**实力**的角度考虑，如果没有达成协议，Alice有4块，是Bob的两倍，所以最终她应该得到两倍的pizza：Alice 8块，Bob 4块。
+
+- 从**公平**的角度考虑，pizza应该平分：Alice 6块，Bob 6块。
+
+- **Split the pie**方案：如果Alice和Bob没有达成协议，他们总共会有4+2=6块。如果他们达成协议，他们将有总共12块。达成协议的价值在于从6块到12块。增加的6块就是pie。这增加的6块，Alice和Bob的贡献是一样的，缺了谁都不行，因此这额外的6块应该被平分。所以，4+3=7块给Alice，2+3=5块给Bob.
+
+书里用了大量的例子从各个角度论证了split the pie方案的合理性。有的例子乍听之下有点反常识，但仔细想象还是很有道理的。反正最后我是被说服了。
+
+「Never split the difference」和 「Split the Pie」，这两本书名看起来似乎有点矛盾，Voss说不要split，而Nalebuff则提倡split the pie.其实他们强调的是谈判的不同方面。Voss强调不要split，主要还是因为他的人质谈判的经历。在人质谈判里，你没法对绑架者说：release half of the hostages and let's call it a day.在这样的危机谈判中，或者在没法明确定义“pie”的时候，Voss的温柔又强势的谈判风格可以借鉴。
+
+而当pie能够被明确定义时，比如两方合作能带来多少的额外收入，能降低多少的成本，这种情况下，用split the pie的方案比较合理公平。
+
+Nalebuff的书里对谈判的心理学略有涉及，但是不多，在说服对方接受split the pie方案时，可以多借鉴Voss提到的心理学技巧。
+
+更多的读书笔记戳<a href="https://hetezen.netlify.app/readings/splitthepie/" target="_blank">这里</a>。
+
+<a href="#header">⇜</a>
+<div id="thinkingfastandslow">
+
+### 「Thinking, fast and slow」by Daniel Kahneman
+
+说到谈判的心理学，最后隆重推荐Daniel Kahneman的「Thinking, fast and slow」。前面的提到的两本书都或多或少参考了这本书里提到的各种理论和实验。了解人类的各种偏见、执拗、冲动、非理性，一方面可以在谈判时稍加利用，影响对方的决定，另一方面也提醒自己，避免陷入类似的陷阱。
+
+（这本的笔记太长了，以后整理完了再添加链接）
+
+<a href="#header">⇜</a>
