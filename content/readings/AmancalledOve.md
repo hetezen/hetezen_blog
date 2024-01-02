@@ -1,9 +1,8 @@
-
 ---
 title: "【Fredrik Backman: A Man Called Ove ｜一个叫欧维的男人决定去死】"
-date: '2021-12-28'
+date: 2021-12-28
 slug: amancalledove
-tags: ["fiction","soothing","治愈"]
+tags: ["北欧","治愈","novel"]
 ---
 
 <div id="header">

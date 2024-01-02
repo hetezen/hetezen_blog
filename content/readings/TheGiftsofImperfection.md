@@ -1,9 +1,8 @@
-
 ---
 title: "【Brené Brown: The Gifts of Imperfection ｜不完美的礼物】"
 date: '2021-12-19'
 slug: TheGiftsofImperfection
-tags: ["soothing","empowering","治愈"]
+tags: ["selfhelp"]
 ---
 
 <div id="header">

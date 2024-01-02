@@ -1,6 +1,6 @@
 ---
 title: Books on how to negotiate | 谈判书单
-date: '2022-11-08'
+date: 2022-11-08
 slug: BooksOnHowToNegotiate
 tags: ["negotiation"]
 ---
@@ -9,9 +9,9 @@ tags: ["negotiation"]
 关于谈判，推荐三本书。
 
 
-- <a href="#Neversplitthedifference">「Never split the difference」by Chris Voss</a>
-- <a href="#splitthepie">「Split the Pie: A Radical New Way to Negotiate」by Barry Nalebuff</a>
-- <a href="#thinkingfastandslow">「Thinking, fast and slow」by Daniel Kahneman</a>
+- <a href="#Neversplitthedifference">**「Never split the difference」by Chris Voss**</a>
+- <a href="#splitthepie">「**Split the Pie: A Radical New Way to Negotiate」by Barry Nalebuff**</a>
+- <a href="#thinkingfastandslow">**「Thinking, fast and slow」by Daniel Kahneman**</a>
 
 <div id="Neversplitthedifference">
 

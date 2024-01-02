@@ -2,7 +2,7 @@
 title: "【Olga Tokarczuk: Bieguni | Flights ｜云游】"
 date: '2021-01-03'
 slug: bieguni
-tags: ["shortstory","poland","literature"]
+tags: ["poland","women","novel","shortstory"]
 ---
 
 ### Bieguni | Flights ｜云游
